@@ -1,0 +1,10 @@
+Preto =  '\033[30m'
+Vermelho = '\033[31m'
+Verde = '\033[32m'
+Amarelo = '\033[33m'
+Azul =  '\033[34m'
+Magenta = '\033[35m'
+Ciano = '\033[36m'
+Branco = '\033[37m'
+
+Reset = '\033[0m'
